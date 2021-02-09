@@ -37,3 +37,5 @@ Overthinks everything.
 ## SEE ALSO
 
 [linkedin](https://www.linkedin.com/in/muhammetsoyturk/)(4), [email](mailto:muhammetabdullahsoyturk@gmail.com)(4)
+
+[Inspired from](https://orhun.dev/)
