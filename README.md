@@ -10,7 +10,7 @@ soyturk [OPTIONS]
 
 ## DESCRIPTION
 
-PhD student in computer science at Koç University. Mostly working on High Performance Computing related projects, specifically on GPU communication profiling tools.
+PhD student in computer science at Koç University. Mostly working on high performance computing related projects. Currently, trying to figure out how to offload CPUs.
 
 ## OPTIONS
 
